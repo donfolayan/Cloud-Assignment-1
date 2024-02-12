@@ -16,7 +16,7 @@
 
     ```bash
     echo 'Hello A' > /home/altschool/misc/fileA
-    ``b
+    ```
     ![c](screenshots/c.png)
 
 4. **Create an empty file named fileB in the misc directory. Populate the file with a dummy content afterwards:**
