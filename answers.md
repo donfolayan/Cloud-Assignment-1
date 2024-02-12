@@ -10,7 +10,7 @@
     ```bash
     cd tests
     ```
-    ![a](screenshots/b.png)
+    ![b](screenshots/b.png)
 
 3. **Use echo command to create a file named fileA with text content ‘Hello A’ in the misc directory:**
 
